@@ -9,7 +9,7 @@
 @media only screen and (max-width: 600px) {
     .text{
         font-size: 10px;
-        color: white;
+       
         position: absolute;
         margin-top: 50%;
         margin-left: 50%;
@@ -23,7 +23,7 @@
 @media only screen and (min-width: 601px) {
     .text{
         font-size: 20px;
-        color: white;
+        
         position: absolute;
         margin-top: 50%;
         margin-left: 50%;
@@ -35,7 +35,7 @@
 @media only screen and (min-width: 992px) {
     .text{
         font-size: 20px;
-        color: white;
+       
         position: absolute;
         margin-top: 50%;
         margin-left: 50%;
@@ -48,7 +48,7 @@
 @media only screen and (min-width: 1200px) {
     .text{
         font-size: 20px;
-        color: white;
+       
         position: absolute;
         margin-top: 50%;
         margin-left: 50%;
